@@ -8012,7 +8012,7 @@ brushDef
 // entity 51
 {
 "classname" "light"
-"origin" "-352 112 176"
+"origin" "-352 120 176"
 "light" "75"
 "_color" "0.950408 0.719768 0.393408"
 }
