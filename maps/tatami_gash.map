@@ -8433,3 +8433,8 @@ brushDef
 "light" "75"
 "_color" "0.950408 0.719768 0.393408"
 }
+// entity 96
+{
+"classname" "item_health_big"
+"origin" "-312 184 128"
+}
