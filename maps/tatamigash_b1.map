@@ -2,6 +2,8 @@
 // entity 0
 {
 "classname" "worldspawn"
+"author" "Rush"
+"_description" "Remake of MAP10 from Rott!Zone by RottKing"
 // brush 0
 {
 brushDef
